@@ -37,7 +37,7 @@ This project is a frontend component that does not require a server or complex d
 
    📁 Repository Structure
 
-1. index.html            Main HTML structure
+1. Profile.html          Main HTML structure
 2. Profile.css           All styling, layout, and media queries
 3.  /image/              Directory containing all required SVG and JPEG images
 4.  /fonts/              Directory containing custom font files
